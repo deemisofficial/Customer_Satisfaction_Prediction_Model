@@ -50,10 +50,14 @@ The model achieved strong classification performance, with clear identification 
 * `README.md`: Project overview and usage guide
 
 ---
+Insight Graphs
+![top_purchased_products_count_scale](top_purchased_products_count_scale.jpg)
+![Top Purchased items by males graph](top_purchased_items_by_males.jpg)
+![productquery_raisedtickets_cxage_based_plotting](productquery_raisedtickets_cxage_based_plotting.jpg)
 
-### 🚀 **How to Run**
+🚀 *Steps How to Run**
 
-1. Clone the repository
+1. Clone the repository 
 2. Install dependencies:
 
    ```bash
